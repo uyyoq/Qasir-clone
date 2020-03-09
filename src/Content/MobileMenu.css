@@ -1,0 +1,43 @@
+.mobile-name {
+  padding: 150px 0px 50px 80px;
+  width: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  background-color: white;
+}
+
+.content {
+  padding: 10px 0 0 35px;
+}
+
+.title {
+  font-size: 60px;
+  font-weight: 570;
+  color: #474955;
+}
+
+.sub-title {
+  font-size: 25px;
+  font-weight: lighter;
+  color: #474955;
+}
+
+.Download {
+  background-color: #f04b32;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 20px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.background {
+  position: fixed;
+  height: 500px;
+  width: 550px;
+}

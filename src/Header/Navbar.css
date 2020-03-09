@@ -1,0 +1,47 @@
+.Navbar {
+  display: flex;
+  position: fixed;
+  cursor: pointer;
+  overflow: hidden;
+  top: 0;
+  width: 100%;
+  background-color: white;
+}
+
+.logo {
+  padding: 25px 0 20px 125px;
+  width: 100px;
+  height: 30px;
+}
+
+.Menu1 {
+  padding: 35px 0 10px 650px;
+  font-weight: 500;
+  font-size: 17px;
+  color: #474955;
+}
+
+.Menu2 {
+  padding: 35px 0 10px 50px;
+  font-weight: 500;
+  font-size: 17px;
+  color: #474955;
+}
+
+.Button-Nvbr {
+  padding: 25px 0 10px 46px;
+}
+
+.button {
+  background-color: #f04b32;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  font-weight: 800;
+  cursor: pointer;
+}
