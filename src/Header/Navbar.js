@@ -13,9 +13,7 @@ export class Navbar extends Component {
         <div className="Menu2">{this.props.menu2}</div>
 
         <div className="Button-Nvbr">
-          <button className="button" onClick="">
-            Masuk
-          </button>
+          <button className="button">Masuk</button>
         </div>
       </div>
     );
