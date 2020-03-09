@@ -5,6 +5,8 @@ import Intro from "./content2/Intro";
 import Content3 from "./Content3/Content3";
 import { Scan } from "./Content4/Scan";
 import Kembalian from "./Content5/Kembalian";
+import Bukti from "./content6/Bukti";
+import Kasbon from "./Content7/Kasbon";
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       <Content3 />
       <Scan />
       <Kembalian />
+      <Bukti />
+      <Kasbon />
     </div>
   );
 }
