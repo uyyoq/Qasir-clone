@@ -4,6 +4,7 @@ import MobileMenu from "./Content/MobileMenu";
 import Intro from "./content2/Intro";
 import Content3 from "./Content3/Content3";
 import { Scan } from "./Content4/Scan";
+import Kembalian from "./Content5/Kembalian";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Intro />
       <Content3 />
       <Scan />
+      <Kembalian />
     </div>
   );
 }
