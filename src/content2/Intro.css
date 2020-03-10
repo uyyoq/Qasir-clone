@@ -1,9 +1,12 @@
 .Container-Intro {
-  background-color: rgb(243, 239, 239);
+  background-color: rgb(255, 250, 250);
 }
 
 .img-intro {
+  height: 200mm;
+  width: 357mm;
 }
 .Text-intro {
+  align-content: center;
   text-align: center;
 }

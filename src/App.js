@@ -7,6 +7,7 @@ import { Scan } from "./Content4/Scan";
 import Kembalian from "./Content5/Kembalian";
 import Bukti from "./content6/Bukti";
 import Kasbon from "./Content7/Kasbon";
+import Tombol from "./Tombol/Tombol";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Kembalian />
       <Bukti />
       <Kasbon />
+      <Tombol />
     </div>
   );
 }

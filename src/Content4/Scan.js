@@ -7,7 +7,7 @@ export class Scan extends Component {
     return (
       <div className="Cont-Scan">
         <div className="img-Scan">
-          <img classname="img-scan" src={ImageScan} alt="img-scan" />
+          <img className="img-scan" src={ImageScan} alt="img-scan" />
         </div>
         <div className="Text-scan">
           <h2>Ada yang Belanja, Tinggal Scan Aja</h2>
