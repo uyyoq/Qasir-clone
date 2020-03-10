@@ -7,8 +7,8 @@ export class Content3 extends Component {
     return (
       <div className="Container">
         <div className="text-KP">
-          <h2>Kelola Produk Bisa Dari Mana Saja</h2>
-          <p>
+          <h2 className="Kp-Bold">Kelola Produk Bisa Dari Mana Saja</h2>
+          <p className="Kp-text">
             Kamu tidak harus berada di toko untuk tahu stok apa yang mulai
             menipis atau produk mana yang paling laris. Tinggal buka aplikasi,
             kelola produk tidak lagi jadi misteri.

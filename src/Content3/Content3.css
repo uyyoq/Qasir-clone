@@ -3,5 +3,23 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr;
-  background-color: rgb(243, 239, 239);
+  background-color: rgb(255, 255, 255);
+  padding: 150px 0px 50px 80px;
+}
+.img-KelolaPrdk {
+  height: 350px;
+  width: 550px;
+}
+.text-KP {
+  padding: 10px 0 0 35px;
+}
+.Kp-Bold {
+  font-size: 60px;
+  font-weight: 570px;
+  color: #474955;
+}
+.Kp-text {
+  font-size: 18px;
+  font-weight: lighter;
+  color: #474955;
 }
