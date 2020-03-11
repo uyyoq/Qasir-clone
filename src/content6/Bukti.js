@@ -9,9 +9,9 @@ export class Bukti extends Component {
         <div className="img-bukti">
           <img className="img-bkt" src={BKT} alt="img-bkt" />
         </div>
-        <div>
-          <h2>Pilih Struk Cetak Atau Struk Digital</h2>
-          <p>
+        <div className="text-bukti">
+          <h2 className="bukti-bold">Pilih Struk Cetak Atau Struk Digital</h2>
+          <p className="text-bkt">
             Beberapa orang perlu struk cetak, beberapa lagi tidak ingin menambah
             konsumsi kertas. Struk digital bisa dikirim ke Whatsapp pelanggan
             atau aplikasi chat lainnya.

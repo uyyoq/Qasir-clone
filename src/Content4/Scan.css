@@ -3,5 +3,23 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr;
-  background-color: rgb(243, 239, 239);
+  background-color: rgb(255, 255, 255);
+  padding: 150px 90px 50px 130px;
+}
+.img-scan {
+  height: 370px;
+  width: 530px;
+}
+.Text-scan {
+  padding: 10px 0 0 35px;
+}
+.Scan-bold {
+  font-size: 55px;
+  font-weight: 300px;
+  color: #474955;
+}
+.Text-scn {
+  font-size: 19px;
+  font-weight: lighter;
+  color: #474955;
 }

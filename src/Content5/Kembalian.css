@@ -3,5 +3,27 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr;
-  background-color: rgb(243, 239, 239);
+  background-color: rgb(255, 255, 255);
+  padding: 150px 50px 50px 80px;
+}
+.img-K {
+  height: 370px;
+  width: 520px;
+  padding-top: 10px;
+}
+.text-kembalian {
+  padding: 0 0 0 30px;
+}
+.KB-bold {
+  font-size: 58px;
+  font-weight: 100px;
+  color: #474955;
+}
+.Text-kb {
+  font-size: 21px;
+  font-weight: lighter;
+  color: #474955;
+}
+.img-op {
+  padding: 5px 0 10px 0;
 }

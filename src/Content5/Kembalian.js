@@ -8,8 +8,8 @@ export class Kembalian extends Component {
     return (
       <div className="cont-kembalian">
         <div className="text-kembalian">
-          <h2>Terima Berbagai Digital Payment</h2>
-          <p>
+          <h2 className="KB-bold">Terima Berbagai Digital Payment</h2>
+          <p className="Text-kb">
             Selain pembayaran tunai, Qasir memungkinan pelanggan untuk melakukan
             pembayaran non-tunai dengan Dana, GoPay, OVO, atau LinkAja. Praktis!
           </p>

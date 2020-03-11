@@ -4,18 +4,18 @@
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr;
   background-color: rgb(255, 255, 255);
-  padding: 150px 0px 50px 80px;
+  padding: 150px 50px 50px 80px;
 }
 .img-KelolaPrdk {
-  height: 350px;
-  width: 550px;
+  height: 370px;
+  width: 530px;
 }
 .text-KP {
   padding: 10px 0 0 35px;
 }
 .Kp-Bold {
-  font-size: 60px;
-  font-weight: 570px;
+  font-size: 58px;
+  font-weight: 100px;
   color: #474955;
 }
 .Kp-text {

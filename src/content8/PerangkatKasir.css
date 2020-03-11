@@ -1,0 +1,14 @@
+.cont-pk {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-column-gap: 10px;
+  padding: 10px;
+  align-items: center;
+}
+.mesin1 {
+  background-color: violet;
+}
+.mesin2 {
+  background-color: violet;
+}

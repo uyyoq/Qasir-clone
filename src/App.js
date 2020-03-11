@@ -8,6 +8,7 @@ import Kembalian from "./Content5/Kembalian";
 import Bukti from "./content6/Bukti";
 import Kasbon from "./Content7/Kasbon";
 import Tombol from "./Tombol/Tombol";
+import PerangkatKasir from "./content8/PerangkatKasir";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Bukti />
       <Kasbon />
       <Tombol />
+      <PerangkatKasir />
     </div>
   );
 }

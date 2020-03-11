@@ -7,8 +7,8 @@ export class Kasbon extends Component {
     return (
       <div className="cont-kasbon">
         <div className="text-kasbon">
-          <h2>Catat Kasbon Lebih Teliti</h2>
-          <p>
+          <h2 className="kasbon-bold">Catat Kasbon Lebih Teliti</h2>
+          <p className="text-ksbn">
             Pelanggan kasbon? Boleh. Tapi pencatatannya harus tetap dijaga.
             Dengan fitur 'Catat Kasbon' kamu akan lebih mudah mencatat
             pembayaran pelanggan yang tertunda
