@@ -2,7 +2,7 @@
   padding: 150px 0px 50px 80px;
   width: 0 auto;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 600px 700px;
   grid-template-rows: 1fr;
   background-color: rgb(243, 239, 239);
   padding-bottom: 100px;
@@ -13,9 +13,10 @@
 }
 
 .title {
-  font-size: 60px;
+  font-size: 56px;
   font-weight: 570;
   color: #474955;
+  padding: 60px 10px 0px 10px;
 }
 
 .sub-title {
@@ -37,24 +38,13 @@
   font-weight: 800;
   cursor: pointer;
 }
+.Download:hover {
+  background-color: rgb(240, 40, 14);
+}
 .background {
-  background-image: url(https://www.qasir.id/assets/v2/images/app.png);
   height: 510px;
   width: 500px;
   padding: 50px 50px;
 }
-/* 
 .img-1 {
-  align-content: center;
-  margin: 20px 200px 30px 0px;
 }
-
-.img-2 {
-  margin: 50 100 30 10;
-}
-.img-3 {
-  margin: 50 100 0 50;
-}
-.img-4 {
-  margin: 50 100 0 50;
-} */

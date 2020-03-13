@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-// import background from "../assets/app.png";
+import background from "../assets/app.png";
 import image1 from "../assets/11.png";
 import image2 from "../assets/22.png";
 import image3 from "../assets/33.png";
@@ -19,8 +19,8 @@ export class MobileMenu extends Component {
           </p>
           <button className="Download">Download Sekarang</button>
         </div>
-        <div className="background">
-          {/* <img className="background" src={background} alt="img-mobile-menu" /> */}
+        <div>
+          <img className="background" src={background} alt="img-mobile-menu" />
           <div>
             <img className="img-1" src={image1} alt="img-1" />
             <img className="img-2" src={image2} alt="img-2" />
