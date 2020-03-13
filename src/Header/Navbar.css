@@ -21,12 +21,18 @@
   font-size: 17px;
   color: #474955;
 }
+.Menu1:hover {
+  color: #f04b32;
+}
 
 .Menu2 {
   padding: 35px 0 10px 50px;
   font-weight: 500;
   font-size: 17px;
   color: #474955;
+}
+.Menu2:hover {
+  color: #f04b32;
 }
 
 .Button-Nvbr {
@@ -45,4 +51,7 @@
   font-size: 17px;
   font-weight: 800;
   cursor: pointer;
+}
+.button:hover {
+  background-color: rgb(240, 40, 14);
 }
