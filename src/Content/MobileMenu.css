@@ -42,9 +42,29 @@
   background-color: rgb(240, 40, 14);
 }
 .background {
+  background-image: url(../assets/app.png);
   height: 510px;
   width: 500px;
   padding: 50px 50px;
 }
+
 .img-1 {
+  position: absolute;
+  left: 700px;
+  top: 155px;
+}
+.img-2 {
+  position: absolute;
+  left: 1000px;
+  top: 250px;
+}
+.img-3 {
+  position: absolute;
+  left: 750px;
+  top: 400px;
+}
+.img-4 {
+  position: absolute;
+  left: 1020px;
+  top: 550px;
 }
