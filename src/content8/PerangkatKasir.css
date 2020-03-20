@@ -1,14 +1,98 @@
 .cont-pk {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  grid-column-gap: 10px;
-  padding: 10px;
-  align-items: center;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  /* width: 800px; */
+  height: 500px;
+  padding: 10px 200px 300px 200px;
+  margin: 10px;
+}
+.ttl-PK {
+  font-size: 47px;
+  font-weight: 570;
+  color: #474955;
+  text-align: center;
+  /* font-family: "Montserrat", sans-serif; */
+  line-height: 1.2;
+  word-spacing: 5px;
 }
 .mesin1 {
-  background-color: violet;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 40%;
+  margin-right: 20px;
+  height: 750px;
+}
+.Text-mesin1 {
+  padding: 10px 25px 0px 45px;
+  font-size: 18px;
+  color: #474955;
 }
 .mesin2 {
-  background-color: violet;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 40%;
+  margin-left: 20px;
+  height: 750px;
+}
+.Text-mesin2 {
+  padding: 10px 25px 0px 45px;
+  font-size: 18px;
+  color: #474955;
+}
+.mesin111 {
+  height: 200px;
+  width: 250px;
+  padding: 20px 40px 0px 50px;
+}
+.mesin222 {
+  height: 200px;
+  width: 250px;
+  padding: 20px 40px 0px 50px;
+}
+.ttl-mesin1 {
+  font-size: 25px;
+  color: #474955;
+}
+.ttl-mesin2 {
+  font-size: 25px;
+  color: #474955;
+}
+.PK-bttn1 {
+  background-color: #f04b32;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 10px 75px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.Pk-bttn {
+  padding-top: 59px;
+}
+.PK-bttn2 {
+  background-color: #f04b32;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 10px 75px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.PK-bttn1:hover {
+  background-color: rgb(240, 40, 14);
+}
+.PK-bttn2:hover {
+  background-color: rgb(240, 40, 14);
+}
+.sd-pk {
+  color: #f04b32;
 }

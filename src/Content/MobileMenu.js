@@ -17,7 +17,7 @@ export class MobileMenu extends Component {
             Aplikasi kasir serba bisa yang mudah digunakan dan tanpa biaya
             berlangganan
           </p>
-          <button className="Download">Download Sekarang</button>
+          <button className="Download">Download Sekarang!</button>
         </div>
         <div className="background">
           <img className="img-1" src={image1} alt="img-1" />
