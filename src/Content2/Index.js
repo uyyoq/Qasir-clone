@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import Image123 from "../assets/intro.png";
-import "../content2/Intro.css";
+// import Image123 from "../assets/intro.png";
+import "./Intro.css";
 
-export class Intro extends Component {
+export default class Content2 extends Component {
   render() {
     return (
       <div className="Container-Intro">
@@ -18,5 +18,3 @@ export class Intro extends Component {
     );
   }
 }
-
-export default Intro;

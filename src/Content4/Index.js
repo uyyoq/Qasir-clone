@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import ImageScan from "../assets/scan.png";
-import "../Content4/Scan.css";
+import "./Scan.css";
 
-export class Scan extends Component {
+export default class Content4 extends Component {
   render() {
     return (
       <div className="Cont-Scan">
@@ -22,5 +22,3 @@ export class Scan extends Component {
     );
   }
 }
-
-export default Scan;

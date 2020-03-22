@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import Ksbn from "../assets/kasbon.png";
-import "../Content7/Kasbon.css";
+import "./Kasbon.css";
 
-export class Kasbon extends Component {
+export default class Content7 extends Component {
   render() {
     return (
       <div className="cont-kasbon">
@@ -21,5 +21,3 @@ export class Kasbon extends Component {
     );
   }
 }
-
-export default Kasbon;

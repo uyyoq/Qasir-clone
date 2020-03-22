@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import BKT from "../assets/bukti.png";
-import "../content6/Bukti.css";
+import "./Bukti.css";
 
-export class Bukti extends Component {
+export default class Content6 extends Component {
   render() {
     return (
       <div className="cont-bukti">
@@ -21,5 +21,3 @@ export class Bukti extends Component {
     );
   }
 }
-
-export default Bukti;

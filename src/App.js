@@ -1,30 +1,30 @@
 import React from "react";
 import Navbar from "./Header/Navbar";
-import MobileMenu from "./Content/MobileMenu";
-import Intro from "./content2/Intro";
-import Content3 from "./Content3/Content3";
-import { Scan } from "./Content4/Scan";
-import Kembalian from "./Content5/Kembalian";
-import Bukti from "./content6/Bukti";
-import Kasbon from "./Content7/Kasbon";
+import Content3 from "./Content3";
 import Tombol from "./Tombol/Tombol";
-import PerangkatKasir from "./content8/PerangkatKasir";
-import { Sponsor } from "./content9/Sponsor";
+import Content from "./Content";
+import Content2 from "./Content2/Index";
+import Content4 from "./Content4/Index";
+import Content5 from "./Content5";
+import Content6 from "./Content6";
+import Content7 from "./Content7";
+import Content8 from "./Content8";
+import Content9 from "./Content9/Sponsor";
 
 function App() {
   return (
     <div className="App">
       <Navbar menu1="Inspirasi" menu2="Kerjasama" />
-      <MobileMenu />
-      <Intro />
+      <Content />
+      <Content2 />
       <Content3 />
-      <Scan />
-      <Kembalian />
-      <Bukti />
-      <Kasbon />
+      <Content4 />
+      <Content5 />
+      <Content6 />
+      <Content7 />
+      <Content8 />
+      <Content9 />
       <Tombol />
-      <PerangkatKasir />
-      <Sponsor />
     </div>
   );
 }

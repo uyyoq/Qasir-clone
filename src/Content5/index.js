@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import OP from "../assets/online-payment.png";
 import KBL from "../assets/kembalian.png";
-import "../Content5/Kembalian.css";
+import "./Kembalian.css";
 
-export class Kembalian extends Component {
+export default class Content5 extends Component {
   render() {
     return (
       <div className="cont-kembalian">
@@ -22,5 +22,3 @@ export class Kembalian extends Component {
     );
   }
 }
-
-export default Kembalian;

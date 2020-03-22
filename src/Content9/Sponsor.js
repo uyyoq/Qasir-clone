@@ -23,9 +23,9 @@ import dailysocial from "../assets/dailysocial.png";
 import techinasia from "../assets/techinasia.png";
 import republika from "../assets/republika.png";
 import liputan6 from "../assets/liputan6.png";
-import "../content9/Sponsor.css";
+import "./Sponsor.css";
 
-export class Sponsor extends Component {
+export default class Content9 extends Component {
   render() {
     return (
       <div>
@@ -124,5 +124,3 @@ export class Sponsor extends Component {
     );
   }
 }
-
-export default Sponsor;

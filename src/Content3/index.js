@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import KelolaPrdk from "../assets/kelola-produk.png";
-import "../Content3/Content3.css";
+import "./Content3.css";
 
 export class Content3 extends Component {
   render() {

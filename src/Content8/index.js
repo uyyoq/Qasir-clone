@@ -1,9 +1,9 @@
 import React, { Component, Fragment } from "react";
 import Mesin11 from "../assets/mesin1.png";
 import Mesin22 from "../assets/mesin2.png";
-import "../content8/PerangkatKasir.css";
+import "./PerangkatKasir.css";
 
-export class PerangkatKasir extends Component {
+export default class Content8 extends Component {
   render() {
     return (
       <Fragment>
@@ -56,5 +56,3 @@ export class PerangkatKasir extends Component {
     );
   }
 }
-
-export default PerangkatKasir;

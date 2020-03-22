@@ -1,13 +1,11 @@
 import React, { Component } from "react";
-import background from "../assets/app.png";
 import image1 from "../assets/11.png";
 import image2 from "../assets/22.png";
 import image3 from "../assets/33.png";
 import image4 from "../assets/44.png";
+import "./MobileMenu.css";
 
-import "../Content/MobileMenu.css";
-
-export class MobileMenu extends Component {
+export default class Content extends Component {
   render() {
     return (
       <div className="mobile-name">
@@ -29,5 +27,3 @@ export class MobileMenu extends Component {
     );
   }
 }
-
-export default MobileMenu;
