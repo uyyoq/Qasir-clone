@@ -9,6 +9,7 @@ import Bukti from "./content6/Bukti";
 import Kasbon from "./Content7/Kasbon";
 import Tombol from "./Tombol/Tombol";
 import PerangkatKasir from "./content8/PerangkatKasir";
+import { Sponsor } from "./content9/Sponsor";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Kasbon />
       <Tombol />
       <PerangkatKasir />
+      <Sponsor />
     </div>
   );
 }

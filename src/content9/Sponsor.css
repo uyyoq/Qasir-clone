@@ -1,0 +1,122 @@
+.sponsor-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto auto auto auto;
+  margin: auto;
+  padding: 10px 100px 40px 100px;
+}
+.sponsor-container > div {
+  height: 80%;
+  width: 100%;
+  margin: 0 auto;
+  padding: 15px;
+}
+.ttl-sponsor {
+  font-size: 25px;
+  color: #474955;
+  text-align: center;
+}
+.sponsor1 {
+  width: 150px;
+  height: 130px;
+}
+.sponsor2 {
+  width: 150px;
+  height: 35px;
+  padding-top: 36px;
+}
+.sponsor3 {
+  width: 150px;
+  height: 50px;
+  padding-top: 25px;
+}
+.sponsor4 {
+  width: 150px;
+  height: 130px;
+}
+.sponsor5 {
+  width: 150px;
+  height: 20px;
+  padding-top: 45px;
+}
+.sponsor6 {
+  width: 150px;
+  height: 130px;
+}
+.sponsor7 {
+  width: 140px;
+  height: 30px;
+  padding-top: 15px;
+}
+.sponsor8 {
+  width: 150px;
+  height: 45px;
+}
+.sponsor9 {
+  width: 150px;
+  height: 50px;
+}
+.sponsor10 {
+  width: 150px;
+  height: 50px;
+}
+.sponsor11 {
+  width: 150px;
+  height: 40px;
+}
+.sponsor12 {
+  width: 150px;
+  height: 50px;
+}
+.sponsor13 {
+  width: 130px;
+  height: 30px;
+}
+.sponsor14 {
+  width: 130px;
+  height: 30px;
+}
+.sponsor15 {
+  width: 130px;
+  height: 50px;
+}
+.sponsor16 {
+  width: 150px;
+  height: 20px;
+}
+.sponsor17 {
+  width: 150px;
+  height: 20px;
+}
+.sponsor18 {
+  width: 150px;
+  height: 60px;
+}
+.sponsor19 {
+  width: 150px;
+  height: 30px;
+}
+.sponsor20 {
+  width: 150px;
+  height: 50px;
+}
+.sponsor21 {
+  width: 150px;
+  height: 40px;
+}
+.sponsor22 {
+  width: 150px;
+  height: 30px;
+}
+.sponsor23 {
+  width: 150px;
+  height: 30px;
+}
+.sponsor23 {
+  width: 150px;
+  height: 20px;
+}
+.sponsor24 {
+  width: 150px;
+  height: 30px;
+}
