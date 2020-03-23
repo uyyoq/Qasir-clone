@@ -1,0 +1,62 @@
+.footer-container {
+  display: grid;
+  grid-template-rows: auto auto;
+  background-color: #404547;
+  padding: 60px 130px 100px 130px;
+  margin: 0 auto;
+}
+.sosmed-logo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  padding-bottom: 50px;
+}
+.list-footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  color: #fff;
+  font-size: 13px;
+}
+.list-footer > div > p {
+  font-weight: lighter;
+  font-size: 14px;
+  color: #b0b2bb;
+}
+.list-footer > div > p:hover {
+  cursor: pointer;
+}
+.sosmed {
+  text-align: right;
+  margin: 0;
+}
+.ink {
+  padding-right: 40px;
+}
+.ink:hover {
+  cursor: pointer;
+}
+.fb {
+  padding-right: 40px;
+}
+.fb:hover {
+  cursor: pointer;
+}
+.yt {
+  padding-right: 40px;
+}
+.yt:hover {
+  cursor: pointer;
+}
+.twt {
+  padding-right: 40px;
+}
+.twt:hover {
+  cursor: pointer;
+}
+.ig {
+  padding-right: 40px;
+}
+.ig:hover {
+  cursor: pointer;
+}

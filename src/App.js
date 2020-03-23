@@ -10,6 +10,8 @@ import Content6 from "./Content6";
 import Content7 from "./Content7";
 import Content8 from "./Content8";
 import Content9 from "./Content9/Sponsor";
+import Content10 from "./Content10";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -24,6 +26,8 @@ function App() {
       <Content7 />
       <Content8 />
       <Content9 />
+      <Content10 />
+      <Footer />
       <Tombol />
     </div>
   );

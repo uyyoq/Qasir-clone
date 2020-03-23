@@ -1,0 +1,28 @@
+.c10-container {
+  margin: auto;
+  padding: 10px 0px 50px 0px;
+  background-color: rgb(243, 239, 239);
+}
+
+.ttl-c10 {
+  text-align: center;
+  font-size: 57px;
+  margin-bottom: 24px;
+  font-weight: 700px;
+  color: #474955;
+}
+
+.text-c10 {
+  text-align: center;
+  font-size: 20px;
+  color: #474955;
+  padding: 10px 200px 0px 200px;
+}
+
+.img-ggl {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80px;
+  width: 170px;
+}
