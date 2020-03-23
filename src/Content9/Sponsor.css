@@ -11,6 +11,9 @@
   margin: 0 auto;
   padding: 15px;
 }
+.sponsor-container > div > img:hover {
+  cursor: pointer;
+}
 .ttl-sponsor {
   font-size: 25px;
   color: #474955;
