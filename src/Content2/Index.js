@@ -9,10 +9,8 @@ export default class Content2 extends Component {
         <h2 className="Text-intro"> Cocok untuk berbagai usaha</h2>
         <p className="Text-int">
           Kamu hanya perlu Qasir untuk apa pun jenis usahamu. Warung, kedai,
-          restoran,
-        </p>
-        <p className="cont">
-          online shop, hingga salon. Jual barang ataupun jasa, Qasir bisa.
+          restoran, online shop, hingga salon. Jual barang ataupun jasa, Qasir
+          bisa.
         </p>
       </div>
     );

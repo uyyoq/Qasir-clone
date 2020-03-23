@@ -8,15 +8,13 @@
 .Text-intro {
   text-align: center;
   font-size: 45px;
-  font-weight: 570;
+  font-weight: 600;
+  color: #474955;
 }
 .Text-int {
   text-align: center;
-  font-size: 16px;
-  font-weight: 100px;
-}
-.cont {
-  text-align: center;
-  font-size: 16px;
-  font-weight: 100px;
+  font-size: 18px;
+  font-weight: lighter;
+  color: #474955;
+  padding: 0px 200px 0px 200px;
 }
