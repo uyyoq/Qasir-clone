@@ -2,7 +2,7 @@
   background-color: rgb(255, 250, 250);
   background-image: url(../assets/intro.png);
   height: 400px;
-  width: 1250px;
+  max-widht: 100%;
   padding: 50px 50px;
 }
 .Text-intro {
